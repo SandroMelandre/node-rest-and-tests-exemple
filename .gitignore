@@ -1,0 +1,4 @@
+.DS_STORE
+.vagrant
+# dependencies
+\node_modules
