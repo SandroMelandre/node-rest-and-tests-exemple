@@ -13,7 +13,7 @@ class AppController {
         this.express.use(express.json());
 
     }
-
+    //import das rotas
     routes() {
         this.express.use(require('./routes'));
     }
